@@ -1,16 +1,13 @@
 # task_project
 
-A new Flutter project.
+using bloc and clean architecture (feature first) , using get_it to create dependency injection, 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+view list and view item details & favorites
+the main screen for pagination need to be enhance by set the page number and everything in controller to keep state in full screen not rebuild by setstate call ,
 
-A few resources to get you started if this is your first Flutter project:
+this is small video 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://www.awesomescreenshot.com/video/35073065?key=cf1d9f3d79df2f5f36a7776d7471eeb4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+thanks for your consideration . 
